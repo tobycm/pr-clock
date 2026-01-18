@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b875cfa1-8667-4cb5-a3fe-860626f7a4a6")
+	(paper "A4")
+	(title_block
+		(title "Penticton Robotics Clock")
+		(date "2026-01-18")
+		(rev "1")
+		(company "Pen High Hack Club x Penticton Robotics")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
